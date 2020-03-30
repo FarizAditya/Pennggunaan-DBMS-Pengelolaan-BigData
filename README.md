@@ -1,4 +1,5 @@
 # Pennggunaan-DBMS-Pengelolaan-BigData
+![Optional Text](../master/image/bigData.png)
 <b>BIG DATA</b> adalah istilah umum untuk segala kumpulan himpunan data dalam jumlah yang sangat besar dan kompleks 
 sehingga menjadikannya sulit untuk ditangani atau di proses jika hanya menggunakan manajemen basis data biasa atau aplikasi 
 pemroses data tradisional.<br><br>
@@ -7,9 +8,6 @@ adalah suatu sistem atau software yang dirancang khusus untuk mengelola suatu da
 diminta oleh banyak pengguna. Berbicara tentang DBMS tentu berhubungan juga dengan <b>DATABASE</b> apa itu database ? <b>Database adalah</b> 
 kumpulan informasi informasi yang disimpan di dalam komputer secara sistematik sehingga dapat diperiksa menggunakan suatu program 
 komputer untuk memperoleh informasi dari basis data tersebut. <br><br>
-
-![Optional Text](../master/image/image1.png)
-
 Tujuan utama penggunaan <B>DBMS</B> dalam jaringan komputer adalah untuk menghindari kekacauan dalam hal pengolahan data yang jumlahnya 
 besar. DBMS merupakan perantara bagi pengguna dan database, dan agar dapat berinteraksi dengan DBMS maka pengguna 
 harus memakai bahasa database yang sudah ditentukan.<br>
