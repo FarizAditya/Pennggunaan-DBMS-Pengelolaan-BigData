@@ -18,7 +18,7 @@ baru, memuat indeks, maupun mengubah tabel.
 mengubah data pada suatu database.<br>
 # Macam-Macam DBMS
 <b>1. ORACLE DATABASE<br></b>
-![Optional Text](../master/image/oracle.jpg)<br>
+![Optional Text](../master/image/oracle.png)<br>
 Sesuai dengan namanya, software ini dikembangkan oleh Oracle Corporation dan menjadi basis data yang paling sering 
 digunakan karena sifatnya yang dapat dijalankan pada hampir semua perangkat komputer (multi platform). Wujud dari 
 Oracle Database ini adalah sebagai kumpulan data yang saling terhubung (relasi) pada suatu manajemen DBMS. Software 
@@ -30,15 +30,19 @@ SQL (Structured Query Language). Pada MySQL proses pembuatan dan pengelolaan dat
 perintah khusus sehingga lebih efektif. Penggunaan MySQL paling sering dijumpai pada database suatu web dan menjadi salah satu 
 fasilitas yang hampir selalu ada pada semua hosting server. Sama seperti Oracle Database, MySQL ini juga tergolong multi platform.<br><br>
 <b>3. Microsoft SQL Server</b><br>
+![Optional Text](../master/image/sqlServer.jpg)<br>
 Dari namanya sudah cukup jelas bahwa software yang satu ini merupakan salah satu produk dari Microsoft Inc. Pada 
 awalnya penggunaan database ditujukan pada server perusahaan berskala kecil dan menengah. Dan ketika mulai muncul 
 server berskala besar akhirnya para pengguna mulai menggunakan Microsoft SQL Server yang memang dibuat khusus agar 
 mampu menangani ribuan data atau bahkan lebih.<br><br>
 <b>4. MangoDB</b><br>
+![Optional Text](../master/image/mangoDB.png)<br>
 MongoDB merupakan perangkat lunak basis data berorientasi dokumen cross platform dan open source. Diklasifikasikan sebagai program 
 basis data NoSQL, MongoDB menggunakan dokumen mirip denga skema JSON. MongoDB dikembangkan oleh MongoDB Inc.<br><br>
 <b>5. MariaDB</b><br>
+![Optional Text](../master/image/mariaDB.png)<br>
 MariaDB di kembangkan dari sistem manajemen basis data relasional MySQL. Pengembangan di pimpin oleh beberapa pengembang asli MySQL 
 yang bercabang karena kekhawatiran atas akuisisi oleh Oracle Corporation. MariaDB bermaksud untuk mempertahankan kompatibilitas 
 yang tinggi dengan MySQL dan cocok dengan API MySQL serta perintahnya.<br><br>
-# Contoh Kasus 
+# Contoh Kasus
+
