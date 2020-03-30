@@ -18,6 +18,7 @@ baru, memuat indeks, maupun mengubah tabel.
 mengubah data pada suatu database.<br>
 # Macam-Macam DBMS
 <b>1. ORACLE DATABASE<br></b>
+![Optional Text](../master/image/oracle.jpg)<br>
 Sesuai dengan namanya, software ini dikembangkan oleh Oracle Corporation dan menjadi basis data yang paling sering 
 digunakan karena sifatnya yang dapat dijalankan pada hampir semua perangkat komputer (multi platform). Wujud dari 
 Oracle Database ini adalah sebagai kumpulan data yang saling terhubung (relasi) pada suatu manajemen DBMS. Software 
