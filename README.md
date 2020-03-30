@@ -23,6 +23,7 @@ digunakan karena sifatnya yang dapat dijalankan pada hampir semua perangkat komp
 Oracle Database ini adalah sebagai kumpulan data yang saling terhubung (relasi) pada suatu manajemen DBMS. Software 
 ini dibangun menggunakan Bahasa pemrograman C dan C++.<br><br>
 <b>2. MySQL</b><br>
+![Optional Text](../master/image/MySQL.png)
 adalah singkatan “My Structured Query Language”.Software yang satu ini menjadi yang paling banyak digunakan untuk keperluan database 
 SQL (Structured Query Language). Pada MySQL proses pembuatan dan pengelolaan database dilakukan dengan menggunakan query atau 
 perintah khusus sehingga lebih efektif. Penggunaan MySQL paling sering dijumpai pada database suatu web dan menjadi salah satu 
